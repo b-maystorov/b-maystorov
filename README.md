@@ -109,3 +109,9 @@ Mein Fokus liegt auf praktischen Projekten, sauberer Dokumentation und dem Aufba
 Ich freue mich über Austausch, Praktikumsanfragen oder Einstiegsmöglichkeiten im Bereich:
 
 **Systemintegration · Linux · Netzwerke · IT-Support · Serveradministration**
+
+## 🏅 Certificates
+
+- **Boot.dev – Introduction to Python**  
+  Programming fundamentals, functions, loops, data structures, testing and error handling  
+  [![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/7786b3b3-dc30-481f-8a26-3bbe7291aeb8.jpeg?v=1785238062)](https://www.boot.dev/certificates/7786b3b3-dc30-481f-8a26-3bbe7291aeb8)
