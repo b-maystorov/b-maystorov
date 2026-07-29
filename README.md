@@ -115,3 +115,6 @@ Ich freue mich über Austausch, Praktikumsanfragen oder Einstiegsmöglichkeiten 
 - **Boot.dev – Introduction to Python**  
   Programming fundamentals, functions, loops, data structures, testing and error handling  
   [![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/7786b3b3-dc30-481f-8a26-3bbe7291aeb8.jpeg?v=1785238062)](https://www.boot.dev/certificates/7786b3b3-dc30-481f-8a26-3bbe7291aeb8)
+  - **Boot.dev – Learn Linux**  
+  Linux command line, files, permissions, processes, PATH, aliases and shell basics
+[![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/15cabefd-9019-471e-8dd3-c24bdb8f7ea1.jpeg?v=1785321893)](https://www.boot.dev/certificates/15cabefd-9019-471e-8dd3-c24bdb8f7ea1)
