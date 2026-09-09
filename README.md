@@ -4,22 +4,22 @@ Ich absolviere aktuell eine Umschulung zum **Fachinformatiker für Systemintegra
 
 Mein Schwerpunkt liegt darauf, technische Grundlagen nicht nur theoretisch zu lernen, sondern sie in eigenen Labs und Projekten praktisch umzusetzen, Fehler systematisch zu analysieren und die Ergebnisse nachvollziehbar zu dokumentieren.
 
-Auf meinem GitHub sammle ich Lernprojekte, Labs und technische Dokumentationen aus meiner Umschulung sowie aus meinem eigenständigen Lernen außerhalb des Unterrichts.. Dabei beschäftige ich mich sowohl mit klassischen Systemintegrationsthemen als auch mit angrenzenden Bereichen wie Automatisierung, Containerisierung und Programmierung.
+Auf meinem GitHub sammle ich Lernprojekte, Labs und technische Dokumentationen aus meiner Umschulung sowie aus meinem eigenständigen Lernen außerhalb des Unterrichts. Dabei liegt mein Schwerpunkt auf klassischen Systemintegrationsthemen, ergänzt durch Automatisierung, Containerisierung und Programmierung.
 
 ---
 
 ## 🚀 Aktueller Fokus
 
-- **Systemadministration:** Linux, Ubuntu Server, Windows und grundlegende Serverdienste
+- **Systemadministration:** Linux, Ubuntu Server und Windows-Grundlagen
 - **Netzwerke:** IPv4, Subnetting, Routing, Switching, VLANs, DNS, DHCP und CCNA-Grundlagen
 - **Cisco & Netzwerklabs:** praktische Übungen mit Cisco Packet Tracer
-- **Virtualisierung:** QEMU/KVM, virtuelle Maschinen und langfristig Proxmox
-- **Container & Infrastruktur:** Docker, Images, Volumes, Netzwerke und Docker Compose
-- **Troubleshooting:** strukturierte Fehleranalyse auf Client, Netzwerk und Systemebene
-- **Automatisierung & Scripting:** Bash, PowerShell und Python-Grundlagen
-- **Git & Dokumentation:** Git, GitHub, Markdown und nachvollziehbare technische Dokumentation
-- **Datenbanken:** SQL und relationale Datenbanken als ergänzende IT-Kompetenz
-- **Home Lab:** Aufbau einer eigenen Testumgebung für Administration, Netzwerk und Serverdienste
+- **Virtualisierung:** QEMU/KVM und virtuelle Maschinen
+- **Docker:** Grundlagen zu Containern, Images, Netzwerken und Docker Compose
+- **Troubleshooting:** grundlegende Fehleranalyse auf Client-, Netzwerk- und Systemebene
+- **Scripting & Programmierung:** Bash-Grundlagen und Python
+- **Git & Dokumentation:** Git, GitHub, Markdown und technische Dokumentation
+- **Datenbanken:** SQL und Grundlagen relationaler Datenbanken
+- **Home Lab:** praktische Übungen mit Linux, Netzwerken und virtuellen Maschinen
 
 ---
 
