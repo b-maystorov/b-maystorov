@@ -4,7 +4,7 @@ Ich absolviere aktuell eine Umschulung zum **Fachinformatiker für Systemintegra
 
 Mein Schwerpunkt liegt darauf, technische Grundlagen nicht nur theoretisch zu lernen, sondern sie in eigenen Labs und Projekten praktisch umzusetzen, Fehler systematisch zu analysieren und die Ergebnisse nachvollziehbar zu dokumentieren.
 
-Auf meinem GitHub sammle ich Lernprojekte, Labs und technische Dokumentationen aus meiner Umschulung sowie aus meinem eigenständigen Studium. Dabei beschäftige ich mich sowohl mit klassischen Systemintegrationsthemen als auch mit angrenzenden Bereichen wie Automatisierung, Containerisierung und Programmierung.
+Auf meinem GitHub sammle ich Lernprojekte, Labs und technische Dokumentationen aus meiner Umschulung sowie aus meinem eigenständigen Lernen außerhalb des Unterrichts.. Dabei beschäftige ich mich sowohl mit klassischen Systemintegrationsthemen als auch mit angrenzenden Bereichen wie Automatisierung, Containerisierung und Programmierung.
 
 ---
 
@@ -15,7 +15,7 @@ Auf meinem GitHub sammle ich Lernprojekte, Labs und technische Dokumentationen a
 - **Cisco & Netzwerklabs:** praktische Übungen mit Cisco Packet Tracer
 - **Virtualisierung:** QEMU/KVM, virtuelle Maschinen und langfristig Proxmox
 - **Container & Infrastruktur:** Docker, Images, Volumes, Netzwerke und Docker Compose
-- **Troubleshooting:** strukturierte Fehleranalyse auf Client-, Netzwerk- und Systemebene
+- **Troubleshooting:** strukturierte Fehleranalyse auf Client, Netzwerk und Systemebene
 - **Automatisierung & Scripting:** Bash, PowerShell und Python-Grundlagen
 - **Git & Dokumentation:** Git, GitHub, Markdown und nachvollziehbare technische Dokumentation
 - **Datenbanken:** SQL und relationale Datenbanken als ergänzende IT-Kompetenz
