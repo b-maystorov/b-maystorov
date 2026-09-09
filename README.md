@@ -1,24 +1,25 @@
 # 👋 Hi, ich bin Bilgin Maystorov
 
-Ich mache aktuell eine Umschulung zum **Fachinformatiker für Systemintegration (FISI)** und baue mir Schritt für Schritt praktische Erfahrung in **Linux, Git, Docker, Netzwerken, Datenbanken, Python und technischer Dokumentation** auf.
+Ich absolviere aktuell eine Umschulung zum **Fachinformatiker für Systemintegration (FISI)** und baue parallel praktische Erfahrung in den Bereichen **Systemadministration, Netzwerke, Linux, Virtualisierung und IT-Infrastruktur** auf.
 
-Auf meinem GitHub dokumentiere ich eigene Lern- und Praxisprojekte rund um Systemintegration, Linux-Administration, Container, SQL, Python und Home-Lab-Grundlagen.
+Mein Schwerpunkt liegt darauf, technische Grundlagen nicht nur theoretisch zu lernen, sondern sie in eigenen Labs und Projekten praktisch umzusetzen, Fehler systematisch zu analysieren und die Ergebnisse nachvollziehbar zu dokumentieren.
 
-Mein Fokus liegt darauf, Themen nicht nur theoretisch zu lernen, sondern sie praktisch umzusetzen und sauber zu dokumentieren.
+Auf meinem GitHub sammle ich Lernprojekte, Labs und technische Dokumentationen aus meiner Umschulung sowie aus meinem eigenständigen Studium. Dabei beschäftige ich mich sowohl mit klassischen Systemintegrationsthemen als auch mit angrenzenden Bereichen wie Automatisierung, Containerisierung und Programmierung.
 
 ---
 
 ## 🚀 Aktueller Fokus
 
-- Linux-Administration mit Ubuntu und Ubuntu Server
-- Git, GitHub und professionelle Repository-Struktur
-- Docker, Container, Images, Volumes und Docker Compose
-- SQL und relationale Datenbanken
-- Python-Grundlagen und objektorientierte Programmierung
-- Netzwerkgrundlagen: IP, DNS, DHCP, NAT, VLANs
-- Virtualisierung mit QEMU/KVM und später Proxmox
-- Technische Dokumentation mit Markdown
-- Aufbau eines eigenen Home-Lab- und Portfolio-Workflows
+- **Systemadministration:** Linux, Ubuntu Server, Windows und grundlegende Serverdienste
+- **Netzwerke:** IPv4, Subnetting, Routing, Switching, VLANs, DNS, DHCP und CCNA-Grundlagen
+- **Cisco & Netzwerklabs:** praktische Übungen mit Cisco Packet Tracer
+- **Virtualisierung:** QEMU/KVM, virtuelle Maschinen und langfristig Proxmox
+- **Container & Infrastruktur:** Docker, Images, Volumes, Netzwerke und Docker Compose
+- **Troubleshooting:** strukturierte Fehleranalyse auf Client-, Netzwerk- und Systemebene
+- **Automatisierung & Scripting:** Bash, PowerShell und Python-Grundlagen
+- **Git & Dokumentation:** Git, GitHub, Markdown und nachvollziehbare technische Dokumentation
+- **Datenbanken:** SQL und relationale Datenbanken als ergänzende IT-Kompetenz
+- **Home Lab:** Aufbau einer eigenen Testumgebung für Administration, Netzwerk und Serverdienste
 
 ---
 
