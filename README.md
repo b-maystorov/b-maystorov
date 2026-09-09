@@ -30,6 +30,7 @@ Mein Fokus liegt darauf, Themen nicht nur theoretisch zu lernen, sondern sie pra
 | [Ubuntu Installation / Autoinstall](https://github.com/b-maystorov/ubuntu-installation-autoinstall) | Dokumentation einer Ubuntu-Installation mit Autoinstall-YAML und Postinstall-Skript | Ubuntu, YAML, Bash, Installation |
 | [Python Dungeon Dice Adventure](https://github.com/b-maystorov/python-dice-adventure) | Python-Konsolenprojekt zum Üben von OOP, Klassen, Methoden, Modulen und einfacher Spiellogik | Python, OOP, Game Logic |
 | [Metropolis Library DB](https://github.com/b-maystorov/metropolis-library-db) | Datenbankprojekt mit Docker, PostgreSQL und Adminer für ein Bibliotheksszenario | SQL, PostgreSQL, Docker, Datenmodellierung |
+| [CCNA Learning](https://github.com/b-maystorov/ccna-learning) | Praktische Vorbereitung auf CCNA 200-301 mit Netzwerktheorie, Subnetting und dokumentierten Cisco Packet Tracer Labs | CCNA, Cisco, Packet Tracer, IPv4, Subnetting, Routing |
 
 ---
 
