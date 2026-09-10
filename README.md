@@ -1,148 +1,210 @@
 # 👋 Hi, ich bin Bilgin Maystorov
 
-Ich absolviere aktuell eine Umschulung zum **Fachinformatiker für Systemintegration (FISI)** und baue parallel praktische Erfahrung in den Bereichen **Systemadministration, Netzwerke, Linux, Virtualisierung und IT-Infrastruktur** auf.
+Ich absolviere aktuell eine Umschulung zum **Fachinformatiker für Systemintegration (FISI)** und bereite mich auf ein Pflichtpraktikum im Bereich **IT-Support, Systemadministration, Netzwerke und IT-Infrastruktur** vor.
 
-Mein Schwerpunkt liegt darauf, technische Grundlagen nicht nur theoretisch zu lernen, sondern sie in eigenen Labs und Projekten praktisch umzusetzen, Fehler systematisch zu analysieren und die Ergebnisse nachvollziehbar zu dokumentieren.
+Mein Schwerpunkt liegt darauf, technische Grundlagen nicht nur theoretisch zu lernen, sondern sie praktisch in eigenen Labs umzusetzen, Fehler systematisch zu analysieren und die Ergebnisse sauber zu dokumentieren.
 
-Auf meinem GitHub sammle ich Lernprojekte, Labs und technische Dokumentationen aus meiner Umschulung sowie aus meinem eigenständigen Lernen außerhalb des Unterrichts. Dabei liegt mein Schwerpunkt auf klassischen Systemintegrationsthemen, ergänzt durch Automatisierung, Containerisierung und Programmierung.
+Aktuell baue ich besonders Wissen in diesen Bereichen auf:
 
----
+```text
+Windows- und Linux-Systeme
+Netzwerktechnik
+IT-Support
+Systemadministration
+Virtualisierung
+Cisco / CCNA-Grundlagen
+Docker
+Git und technische Dokumentation
+```
 
-## 🚀 Aktueller Fokus
-
-- **Systemadministration:** Linux, Ubuntu Server und Windows-Grundlagen
-- **Netzwerke:** IPv4, Subnetting, Routing, Switching, VLANs, DNS, DHCP und CCNA-Grundlagen
-- **Cisco & Netzwerklabs:** praktische Übungen mit Cisco Packet Tracer
-- **Virtualisierung:** QEMU/KVM und virtuelle Maschinen
-- **Docker:** Grundlagen zu Containern, Images, Netzwerken und Docker Compose
-- **Troubleshooting:** grundlegende Fehleranalyse auf Client-, Netzwerk- und Systemebene
-- **Scripting & Programmierung:** Bash-Grundlagen und Python
-- **Git & Dokumentation:** Git, GitHub, Markdown und technische Dokumentation
-- **Datenbanken:** SQL und Grundlagen relationaler Datenbanken
-- **Home Lab:** praktische Übungen mit Linux, Netzwerken und virtuellen Maschinen
+Zusätzlich lerne ich Python, SQL und grundlegende Automatisierung, damit ich technische Aufgaben besser verstehen, dokumentieren und später auch teilweise automatisieren kann.
 
 ---
 
-## 📌 Wichtige Repositories
+## 🎯 Aktueller Fokus
 
-| Projekt | Beschreibung | Themen |
-|---|---|---|
-| [FISI Lern-Wiki](https://github.com/b-maystorov/fisi-lernwiki) | Persönliche Wissenssammlung zu FISI-Themen, Linux, Git, Docker, SQL, Cheatsheets und Lernfeldern | Linux, Git, Docker, SQL, Dokumentation |
-| [Ubuntu Installation / Autoinstall](https://github.com/b-maystorov/ubuntu-installation-autoinstall) | Dokumentation einer Ubuntu-Installation mit Autoinstall-YAML und Postinstall-Skript | Ubuntu, YAML, Bash, Installation |
-| [Python Dungeon Dice Adventure](https://github.com/b-maystorov/python-dice-adventure) | Python-Konsolenprojekt zum Üben von OOP, Klassen, Methoden, Modulen und einfacher Spiellogik | Python, OOP, Game Logic |
-| [Metropolis Library DB](https://github.com/b-maystorov/metropolis-library-db) | Datenbankprojekt mit Docker, PostgreSQL und Adminer für ein Bibliotheksszenario | SQL, PostgreSQL, Docker, Datenmodellierung |
-| [CCNA Learning](https://github.com/b-maystorov/ccna-learning) | Praktische Vorbereitung auf CCNA 200-301 mit Netzwerktheorie, Subnetting und dokumentierten Cisco Packet Tracer Labs | CCNA, Cisco, Packet Tracer, IPv4, Subnetting, Routing |
+Mein aktueller Hauptfokus liegt auf **Systemintegration und Netzwerken**.
+
+| Bereich | Fokus |
+|---|---|
+| IT-Support | Fehleranalyse, Benutzerunterstützung, Tickets, Windows/Linux-Grundlagen |
+| Systemadministration | Linux, Ubuntu Server, Dienste, Benutzerrechte, SSH, Logs |
+| Netzwerke | IPv4, Subnetting, DNS, DHCP, Routing, Switching, VLANs |
+| Cisco / CCNA | Cisco Packet Tracer, LAN-Labs, Routing, Switching, Subnetting |
+| Virtualisierung | QEMU/KVM, virtuelle Maschinen, Netzwerkmodi, Home Lab |
+| Dokumentation | Markdown, README-Dateien, technische Schritt-für-Schritt-Dokumentation |
+| Tools | Git, GitHub, Docker, Bash, SQL, Python-Grundlagen |
 
 ---
 
-## 📚 Hauptprojekt: FISI Lern-Wiki
+## ⭐ Hauptprojekt: CCNA Learning
 
-Mein wichtigstes aktuelles Repository ist das **FISI Lern-Wiki**.
+Mein wichtigstes aktuelles Praxisprojekt ist **CCNA Learning**.
 
-Dort dokumentiere ich technische Grundlagen und praktische Inhalte aus meiner Umschulung und eigenen IT-Übungen.
+In diesem Repository dokumentiere ich meine Vorbereitung auf die **CCNA 200-301 Grundlagen** mit Theorie, Subnetting-Übungen und praktischen Cisco Packet Tracer Labs.
+
+**Themen:**
+
+```text
+Netzwerkgrundlagen
+OSI- und TCP/IP-Modell
+IPv4 und Subnetting
+ARP und ICMP
+Switching
+VLANs
+Routing-Grundlagen
+Cisco IOS Grundbefehle
+Packet Tracer Labs
+technische Dokumentation
+```
+
+➡️ [CCNA Learning öffnen](https://github.com/b-maystorov/ccna-learning)
+
+---
+
+## 📚 Wissensbasis: FISI Lern-Wiki
+
+Das **FISI Lern-Wiki** ist meine persönliche Wissenssammlung für die Umschulung und mein eigenständiges Lernen.
+
+Dort dokumentiere ich Grundlagen aus Systemintegration, Linux, Netzwerken, IT-Sicherheit, Docker, SQL, Virtualisierung und den Lernfeldern der Umschulung.
 
 **Aktuell enthalten:**
 
-- Lernfelder LF2 bis LF5
-- Linux-Grundlagen und Systemadministration
-- Git und GitHub
-- Docker-Grundlagen
-- Cheatsheets für Linux, Git, Docker und Netzwerkbefehle
-- Datenbanken und SQL
-- geplante Bereiche für Netzwerke, IT-Sicherheit und Virtualisierung
+```text
+Lernfelder LF2 bis LF5
+Linux-Grundlagen und Systemadministration
+Git und GitHub
+Docker-Grundlagen
+Datenbanken und SQL
+Netzwerke
+IT-Sicherheit
+Virtualisierung
+Cheatsheets
+```
 
-➡️ [Zum FISI Lern-Wiki](https://github.com/b-maystorov/fisi-lernwiki)
-
----
-
-## 🧪 Projekte im Detail
-
-### 🖥️ Ubuntu Installation / Autoinstall
-
-Dokumentation einer Ubuntu-Installation mit Fokus auf Grundkonfiguration, Partitionierung, Netzwerk, Autoinstall-YAML und Postinstall-Skript.
-
-**Themen:**
-
-- Ubuntu Server / Desktop Installation
-- Partitionierung und Dateisysteme
-- Netzwerkgrundlagen
-- Autoinstall mit YAML
-- Postinstall-Skript mit Bash
-- technische Dokumentation
-
-➡️ [Repository öffnen](https://github.com/b-maystorov/ubuntu-installation-autoinstall)
+➡️ [FISI Lern-Wiki öffnen](https://github.com/b-maystorov/fisi-lernwiki)
 
 ---
 
-### 📚 FISI Lern-Wiki
+## 📌 Weitere Projekte
 
-Persönliche Wissenssammlung zu Themen aus der Umschulung und praktischen IT-Systemintegration.
-
-**Themen:**
-
-- Linux
-- Git und GitHub
-- Docker
-- SQL und Datenbanken
-- Netzwerkgrundlagen
-- IT-Sicherheit
-- Cheatsheets
-- FISI-Lernfelder
-- technische Dokumentation
-
-➡️ [Repository öffnen](https://github.com/b-maystorov/fisi-lernwiki)
+| Projekt | Beschreibung | Themen |
+|---|---|---|
+| [Ubuntu Installation / Autoinstall](https://github.com/b-maystorov/ubuntu-installation-autoinstall) | Dokumentation einer Ubuntu-Installation mit Autoinstall-YAML und Postinstall-Skript | Ubuntu, YAML, Bash, Installation |
+| [Metropolis Library DB](https://github.com/b-maystorov/metropolis-library-db) | Datenbankprojekt mit PostgreSQL, Docker und Adminer für ein Bibliotheksszenario | SQL, PostgreSQL, Docker |
+| [Python Dungeon Dice Adventure](https://github.com/b-maystorov/python-dice-adventure) | Python-Konsolenprojekt zum Üben von OOP, Klassen, Methoden und einfacher Spiellogik | Python, OOP, Tests |
+| [FISI Lern-Wiki](https://github.com/b-maystorov/fisi-lernwiki) | Technische Wissenssammlung zu FISI-Themen und IT-Grundlagen | Linux, Netzwerke, Docker, SQL, Sicherheit |
+| [CCNA Learning](https://github.com/b-maystorov/ccna-learning) | Dokumentierte Vorbereitung auf Netzwerkgrundlagen und CCNA-Themen | Cisco, Packet Tracer, Subnetting |
 
 ---
 
-### 🐍 Python Dungeon Dice Adventure
+## 🧪 Praktische Lernbereiche
 
-Python-Konsolenspiel im Aufbau. Das Projekt dient dazu, Python praktisch zu üben und Schritt für Schritt ein kleines Spielsystem mit Klassen, Methoden, Modulen und Kampflogik aufzubauen.
+### Netzwerke und CCNA
 
-**Themen:**
+```text
+IPv4
+Subnetting
+Routing
+Switching
+VLANs
+DNS
+DHCP
+NAT
+ARP
+ICMP
+Cisco Packet Tracer
+```
 
-- Python-Grundlagen
-- objektorientierte Programmierung
-- Klassen und Objekte
-- Methoden und Module
-- Zufallszahlen mit Würfeln
-- einfache Kampflogik
-- Projektstruktur und README-Dokumentation
-
-➡️ [Repository öffnen](https://github.com/b-maystorov/python-dice-adventure)
-
----
-
-### 🗄️ Metropolis Library DB
-
-Datenbankprojekt für ein Bibliotheksszenario mit PostgreSQL, Docker und Adminer.
-
-**Themen:**
-
-- relationale Datenbanken
-- Tabellen, Primärschlüssel und Fremdschlüssel
-- Datenmodellierung
-- SQL-Grundlagen
-- Docker Compose
-- Adminer als Datenbank-GUI
-- technische Projektdokumentation
-
-➡️ [Repository öffnen](https://github.com/b-maystorov/metropolis-library-db)
+Ich nutze Cisco Packet Tracer, um Netzwerktopologien praktisch aufzubauen und zu dokumentieren.
 
 ---
 
-## 🛠️ Skills
+### Linux und Systemadministration
+
+```text
+Ubuntu
+Ubuntu Server
+Shell
+SSH
+Benutzer und Rechte
+Dienste mit systemctl
+Logs mit journalctl
+Netzwerkprüfung mit ip, ping und ss
+Samba-Grundlagen
+```
+
+Mein Ziel ist, Linux-Systeme sicherer zu verstehen, zu verwalten und typische Fehler systematisch zu prüfen.
+
+---
+
+### Windows und IT-Support
+
+```text
+Windows 10 / 11
+grundlegende Fehleranalyse
+Netzwerkdiagnose
+Benutzerunterstützung
+Client-Probleme
+Tickets und Dokumentation
+```
+
+Der Fokus liegt auf praktischen Grundlagen, die in IT-Support und Systemintegration wichtig sind.
+
+---
+
+### Virtualisierung und Home Lab
+
+```text
+QEMU/KVM
+virtuelle Maschinen
+Ubuntu Server VM
+Windows VM
+NAT / Bridge / Host-only
+Snapshots
+Backup-Grundlagen
+Home-Lab-Aufbau
+```
+
+Virtualisierung nutze ich, um Server- und Netzwerkthemen praktisch zu üben.
+
+---
+
+### Docker, SQL und Python
+
+Diese Themen ergänzen meinen FISI-Schwerpunkt.
+
+```text
+Docker Container
+Images
+Volumes
+Netzwerke
+Docker Compose
+SQL
+PostgreSQL
+Python-Grundlagen
+OOP-Grundlagen
+Bash-Skripte
+```
+
+Ich lerne diese Bereiche, um moderne IT-Infrastruktur besser zu verstehen und kleine praktische Tools oder Labs aufzubauen.
+
+---
+
+## 🛠️ Technische Kenntnisse
 
 | Bereich | Technologien / Themen |
 |---|---|
-| Linux / Sysadmin | Ubuntu, Ubuntu Server, Shell, SSH, Benutzerrechte, Dienste, Logs |
+| Betriebssysteme | Windows 10/11, Ubuntu/Linux, Ubuntu Server |
+| Netzwerke | TCP/IP, IPv4, DNS, DHCP, Routing, VLAN, WLAN, VPN |
+| Systemadministration | SSH, Benutzerrechte, Dienste, Logs, Samba-Grundlagen |
+| Virtualisierung | QEMU/KVM, virtuelle Maschinen, Netzwerkmodi |
+| Cisco / CCNA | Packet Tracer, LAN-Labs, Subnetting, Routing/Switching-Grundlagen |
+| Docker | Container, Images, Volumes, Netzwerke, Docker Compose |
 | Git / GitHub | Repositories, Commits, Branches, Pull, Push, SSH, Markdown |
-| Docker | Images, Container, Volumes, Netzwerke, Docker Compose, Logs |
 | Datenbanken | SQL, PostgreSQL, relationale Modelle, Joins, Constraints |
-| Netzwerke | IP-Adressen, DNS, DHCP, NAT, VLAN-Grundlagen, Routing |
-| Virtualisierung | QEMU/KVM, virtuelle Maschinen, Home Lab |
-| Entwicklung | Python, OOP-Grundlagen, kleine Konsolenprojekte |
-| Automatisierung | Bash, Installationsskripte, einfache Workflows |
-| Dokumentation | Markdown, technische Dokumentation, Lern-Wikis, README-Strukturen |
+| Programmierung | Python-Grundlagen, OOP-Grundlagen, kleine Konsolenprojekte |
+| Dokumentation | Markdown, technische README-Dateien, Lern-Wikis, Lab-Dokumentation |
 
 ---
 
@@ -215,22 +277,20 @@ Object-oriented programming with classes, objects, methods, encapsulation and Py
 
 ## 🎯 Ziel
 
-Ich möchte mich langfristig in Richtung **Systemadministration, Netzwerkadministration und DevOps-Grundlagen** entwickeln.
-
-Mein Fokus liegt auf praktischen Projekten, sauberer Dokumentation und dem Aufbau eines stabilen technischen Verständnisses.
-
-Aktuell baue ich besonders Wissen in diesen Bereichen auf:
+Mein Ziel ist ein Einstieg im Bereich:
 
 ```text
-Linux
-Git & GitHub
-Docker
-SQL
-Python
-Netzwerke
-Systemadministration
-technische Dokumentation
+IT-Support
+Systemintegration
+Linux-/Windows-Administration
+Netzwerkadministration
+Serveradministration
+IT-Infrastruktur
 ```
+
+Langfristig möchte ich mich in Richtung **Systemadministration, Netzwerkadministration und DevOps-Grundlagen** weiterentwickeln.
+
+Aktuell suche ich besonders nach Möglichkeiten, mein Wissen in praktischen IT-Umgebungen anzuwenden und weiter auszubauen.
 
 ---
 
@@ -238,4 +298,4 @@ technische Dokumentation
 
 Ich freue mich über Austausch, Praktikumsanfragen oder Einstiegsmöglichkeiten im Bereich:
 
-**Systemintegration · Linux · Netzwerke · IT-Support · Serveradministration · Docker · Git · SQL**
+**Systemintegration · IT-Support · Linux · Windows · Netzwerke · Serveradministration · Virtualisierung · Docker · Git**
