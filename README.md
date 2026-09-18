@@ -4,21 +4,6 @@ Ich absolviere aktuell eine Umschulung zum **Fachinformatiker für Systemintegra
 
 Mein Schwerpunkt liegt darauf, technische Grundlagen nicht nur theoretisch zu lernen, sondern sie praktisch in eigenen Labs umzusetzen, Fehler systematisch zu analysieren und die Ergebnisse sauber zu dokumentieren.
 
-Aktuell baue ich besonders Wissen in diesen Bereichen auf:
-
-```text
-Windows- und Linux-Systeme
-Netzwerktechnik
-IT-Support
-Systemadministration
-Virtualisierung
-Cisco / CCNA-Grundlagen
-Docker
-Git und technische Dokumentation
-```
-
-Zusätzlich lerne ich Python, SQL und grundlegende Automatisierung, damit ich technische Aufgaben besser verstehen, dokumentieren und später auch teilweise automatisieren kann.
-
 ---
 
 ## 🎯 Aktueller Fokus
