@@ -11,15 +11,19 @@ Mein Schwerpunkt liegt darauf, technische Grundlagen nicht nur theoretisch zu le
 ## 🎯 Aktueller Fokus
 
 - **IT-Support** – Fehleranalyse, Benutzerunterstützung, Tickets, Windows/Linux-Grundlagen
-- **Systemadministration** – Linux, Ubuntu Server, Dienste, Benutzerrechte, SSH, Logs
+- **Systemadministration** – Linux, Ubuntu Server, Windows Server, Dienste, Benutzerrechte, SSH, Logs
+- **Active Directory** – Windows Server, AD DS, DNS, Domänen, OUs und Windows-Clients
 - **Netzwerke** – IPv4, Subnetting, DNS, DHCP, Routing, Switching, VLANs
 - **Cisco / CCNA** – Cisco Packet Tracer, LAN-Labs, Routing, Switching, Subnetting
-- **Virtualisierung** – QEMU/KVM, virtuelle Maschinen, Netzwerkmodi, Home Lab
+- **Virtualisierung** – QEMU/KVM, VirtualBox, virtuelle Maschinen, Netzwerkmodi, Home Lab
 - **Dokumentation** – Markdown, README-Dateien, technische Schritt-für-Schritt-Dokumentation
 
 ---
 
 ## ⭐ Hauptprojekte
+
+### [Active Directory Homelab](https://github.com/b-maystorov/active-directory-homelab)
+Praktisches Windows-Server-Lab mit **Active Directory Domain Services (AD DS)** und **DNS**. Aufbau eines Domain Controllers, Einrichtung der Domäne `adlab.local`, DNS-Konfiguration, OU-Struktur und Integration eines Windows-11-Clients in die Domäne. Das Lab wird Schritt für Schritt mit Screenshots und technischer Dokumentation festgehalten.
 
 ### [CCNA Learning](https://github.com/b-maystorov/ccna-learning)
 Dokumentierte Vorbereitung auf die **CCNA 200-301 Grundlagen** mit Theorie, Subnetting-Übungen und praktischen Cisco Packet Tracer Labs — u. a. OSI-/TCP-IP-Modell, IPv4 & Subnetting, ARP/ICMP, Switching, VLANs, Routing-Grundlagen und Cisco IOS Grundbefehle.
@@ -43,10 +47,11 @@ Meine persönliche Wissenssammlung für die Umschulung: Lernfelder LF2–LF5, Li
 
 | Bereich | Technologien / Themen |
 |---|---|
-| Betriebssysteme | Windows 10/11, Ubuntu/Linux, Ubuntu Server |
+| Betriebssysteme | Windows 10/11, Windows Server, Ubuntu/Linux, Ubuntu Server |
+| Active Directory | AD DS, Domain Controller, DNS, Domänenbeitritt, OUs, Windows-Clients |
 | Netzwerke | TCP/IP, IPv4, DNS, DHCP, Routing, VLAN, WLAN, VPN, NAT, ARP, ICMP |
 | Systemadministration | SSH, Benutzerrechte, Dienste (systemctl), Logs (journalctl), Samba-Grundlagen |
-| Virtualisierung | QEMU/KVM, virtuelle Maschinen, Netzwerkmodi (NAT/Bridge/Host-only), Snapshots |
+| Virtualisierung | QEMU/KVM, VirtualBox, virtuelle Maschinen, Netzwerkmodi (NAT/Bridge/Host-only), Snapshots |
 | Cisco / CCNA | Packet Tracer, LAN-Labs, Subnetting, Routing/Switching-Grundlagen |
 | Docker | Container, Images, Volumes, Netzwerke, Docker Compose |
 | Git / GitHub | Repositories, Commits, Branches, Pull, Push, SSH, Markdown |
@@ -133,4 +138,4 @@ Ich freue mich über Austausch, Praktikumsanfragen oder Einstiegsmöglichkeiten:
 - 💼 LinkedIn: https://www.linkedin.com/in/bilgin-maystorov/
 - 🐙 GitHub: [@b-maystorov](https://github.com/b-maystorov)
 
-**Schwerpunkte:** Systemintegration · IT-Support · Linux · Windows · Netzwerke · Serveradministration · Virtualisierung · Docker · Git
+**Schwerpunkte:** Systemintegration · IT-Support · Active Directory · Windows Server · Linux · Windows · Netzwerke · Serveradministration · Virtualisierung · Docker · Git
